@@ -27,3 +27,21 @@ One-hot encodes low-cardinality categorical variables (city, country).
 Trains a LightGBM regression model on the clean data.
 
 Provides a Streamlit UI for user input and real-time house price prediction.
+
+**Requirements**
+
+Python 3.8+
+
+pandas
+
+numpy
+
+scikit-learn
+
+lightgbm
+
+streamlit
+
+**Author**
+
+**Dr. Muhammad Usman**
